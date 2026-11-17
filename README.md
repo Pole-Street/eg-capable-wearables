@@ -1,0 +1,1 @@
+# eg-capable-wearables
